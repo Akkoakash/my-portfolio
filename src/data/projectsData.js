@@ -11,39 +11,39 @@ import four from '../assets/svg/projects/four.svg'
 export const projectsData = [
     {
         id: 1,
+        projectName: 'Movie App',
+        projectDesc: 'This project aims to find movies rating and review ',
+        tags: ['React', 'CSS', 'Material UI'],
+        code: 'https://github.com/Akkoakash/movies-app',
+        demo: 'https://movies-app-inky.vercel.app/',
+        image: one
+    },
+    {
+        id: 2,
+        projectName: 'Food App',
+        projectDesc: 'This project aims food ingredients and cooking procedure',
+        tags: ['React', 'CSS', 'Material UI'],
+        code: 'https://github.com/Akkoakash/food-app',
+        demo: 'https://logbook-app.vercel.app/',
+        image: two
+    }, 
+    {
+        id: 3,
         projectName: 'Dairy Management',
         projectDesc: 'This project aims to feed in daily events of an individual',
         tags: ['React', 'CSS', 'Bootstrap'],
         code: 'https://github.com/Akkoakash/DiaryManaging-Frontend',
         demo: 'https://eloquent-bavarois-81bd6e.netlify.app/',
-        image: one
-    },
-    {
-        id: 2,
-        projectName: 'Movie App',
-        projectDesc: 'This project aims to manage movies list',
-        tags: ['React', 'CSS', 'Material UI'],
-        code: 'https://github.com/Akkoakash/movie-app',
-        demo: 'https://movie-6axi24bgk-akkoakash.vercel.app/',
-        image: two
-    }, 
-    {
-        id: 3,
-        projectName: 'Food App',
-        projectDesc: 'This project aims to manage menu cards',
-        tags: ['React', 'CSS', 'Material UI'],
-        code: 'https://github.com/Akkoakash/food-app',
-        demo: 'https://food-9b8djgpsx-akkoakash.vercel.app',
         image: three
     }, 
     {
         id: 4,
-        projectName: 'Food App',
+        projectName: 'Log App',
         projectDesc: 'This project aims to manage notes',
         tags: ['React', 'CSS', 'Material UI'],
-        code: 'https://github.com/Akkoakash/Notes',
-        demo: 'https://notes-cqi6hbram-akkoakash.vercel.app',
-        image: three
+        code: 'https://github.com/Akkoakash/logbook-app',
+        demo: 'https://logbook-k26bp90f3-akkoakash.vercel.app/',
+        image: four
     }, 
     /*{
         id: 2,
