@@ -15,16 +15,16 @@ export const projectsData = [
         projectDesc: 'This project aims to find movies rating and review ',
         tags: ['React', 'CSS', 'Material UI'],
         code: 'https://github.com/Akkoakash/movies-app',
-        demo: 'https://movies-app-inky.vercel.app/',
+        demo: 'https://movies-app-inky.vercel.app/movies',
         image: one
     },
     {
         id: 2,
-        projectName: 'Food App',
-        projectDesc: 'This project aims food ingredients and cooking procedure',
+        projectName: 'Quiz App',
+        projectDesc: 'This project aims to gain more knowledge in different field',
         tags: ['React', 'CSS', 'Material UI'],
-        code: 'https://github.com/Akkoakash/food-app',
-        demo: 'https://logbook-app.vercel.app/',
+        code: 'https://github.com/Akkoakash/quiz-app',
+        demo: 'https://quiz-app-theta-five.vercel.app/',
         image: two
     }, 
     {
@@ -42,7 +42,7 @@ export const projectsData = [
         projectDesc: 'This project aims to manage notes',
         tags: ['React', 'CSS', 'Material UI'],
         code: 'https://github.com/Akkoakash/logbook-app',
-        demo: 'https://logbook-k26bp90f3-akkoakash.vercel.app/',
+        demo: 'https://logbook-app.vercel.app/',
         image: four
     }, 
     /*{
