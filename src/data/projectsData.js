@@ -42,7 +42,7 @@ export const projectsData = [
         projectDesc: 'This project aims to manage notes',
         tags: ['React', 'CSS', 'Material UI'],
         code: 'https://github.com/Akkoakash/logbook-app',
-        demo: 'https://logbook-k26bp90f3-akkoakash.vercel.app/',
+        demo: 'https://logbook-app.vercel.app/',
         image: four
     }, 
     /*{
