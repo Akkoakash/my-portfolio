@@ -24,7 +24,7 @@ export const projectsData = [
         projectDesc: 'This project aims to gain more knowledge in different field',
         tags: ['React', 'CSS', 'Material UI'],
         code: 'https://github.com/Akkoakash/quiz-app',
-        demo: 'https://quiz-app-theta-five.vercel.app/',
+        demo: 'https://quiz-app-theta-five.vercel.app',
         image: two
     }, 
     {
@@ -42,7 +42,7 @@ export const projectsData = [
         projectDesc: 'This project aims to manage notes',
         tags: ['React', 'CSS', 'Material UI'],
         code: 'https://github.com/Akkoakash/logbook-app',
-        demo: 'https://logbook-app.vercel.app/',
+        demo: 'https://logbook-app.vercel.app',
         image: four
     }, 
     /*{
