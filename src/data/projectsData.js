@@ -15,7 +15,7 @@ export const projectsData = [
         projectDesc: 'This project aims to find movies rating and review ',
         tags: ['React', 'CSS', 'Material UI'],
         code: 'https://github.com/Akkoakash/movies-app',
-        demo: 'https://movies-app-inky.vercel.app/movies',
+        demo: 'https://movies-9m000qtex-akkoakash.vercel.app',
         image: one
     },
     {
@@ -38,7 +38,7 @@ export const projectsData = [
     }, 
     {
         id: 4,
-        projectName: 'Log App',
+        projectName: 'Blog App',
         projectDesc: 'This project aims to manage notes',
         tags: ['React', 'CSS', 'Material UI'],
         code: 'https://github.com/Akkoakash/logbook-app',
