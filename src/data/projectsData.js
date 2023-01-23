@@ -29,7 +29,7 @@ export const projectsData = [
     }, 
     {
         id: 3,
-        projectName: 'Dairy Management',
+        projectName: 'Diary Management',
         projectDesc: 'This project aims to feed in daily events of an individual',
         tags: ['React', 'CSS', 'Bootstrap'],
         code: 'https://github.com/Akkoakash/DiaryManaging-Frontend',
